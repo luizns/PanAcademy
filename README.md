@@ -11,7 +11,7 @@
 
 
 <h3 align="center"> 
- Em andamento... 🔨
+ Em Atualização... 🔨
 </h4>
 
 ### 🛠 Tecnologias
@@ -21,3 +21,11 @@
 - [AWS](https://docs.aws.amazon.com/)
 - <a href="./git/">GIT</a>
 - [BANCO DE DADOS](https://dev.mysql.com/)
+
+
+### Módulos 
+- <a href="./AWS/">AWS</a>
+- <a href="./Git/">Git</a>
+- <a href="./Java Fundamentos/">Java Funcamentos</a>
+- <a href="./Java Spring/">Java Spring Boot</a>
+- <a href="./Testes Unitários/">Testes Unitários</a>
